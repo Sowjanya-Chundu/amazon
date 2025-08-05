@@ -1,0 +1,2 @@
+#multiplication
+x=a*b
